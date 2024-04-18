@@ -6,7 +6,7 @@
 
 ### Links
 
-- URL: [live Site URL]()
+- URL: [live Site URL](https://krishnatalekar.github.io/password-generator-javascript/)
 
 ### Built with
 
